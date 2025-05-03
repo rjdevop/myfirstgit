@@ -3,4 +3,4 @@ This is my first Repository.
 <br/>
 Hi i am new to github.
 <br/>
-Author - RJ
+Author - RJBhau
